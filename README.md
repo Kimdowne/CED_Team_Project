@@ -30,7 +30,7 @@
             ...
         └── 📁history
             └── conversation_hisory.txt
-            ...ㄹㄴㅇㄹㄴㄴ
+            ...
         └── 📁prompt
             └── prompt.txt
     ```
